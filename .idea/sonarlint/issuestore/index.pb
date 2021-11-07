@@ -15,7 +15,19 @@ h
 Papp/src/main/java/com/example/notesapp/feature_note/presentation/MainActivity.kt,3/b/3b7c6a8d1a8fd5e96594f7d90e01a4c3359f1642
 
 Oapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDao.kt,7/3/73ccd3dd938dc14c03197221d9f58927d1a489fa
-x
-Happ/src/main/java/com/example/notesapp/feature_note/domain/model/Note.kt,4/2/42074a9a394d39e1bd035d39c39e9fc65da3ceca
 ˆ
 Xapp/src/main/java/com/example/notesapp/feature_note/data/repository/NoteRepositoryImp.kt,1/c/1c207e90608557c98eca3b54458ee0eada3295f7
+|
+Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/NoteOrder.kt,8/5/85eb642c59a8bc10cf60b7f81ae9f3c7be070e07
+|
+Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/OrderType.kt,4/e/4e779135634d0188e6f5f509ab7c317d5416da3a
+‡
+Wapp/src/main/java/com/example/notesapp/feature_note/domain/repository/NoteRepository.kt,c/3/c33522a5f4d7f9914d0112918f975f2d45b30441
+b
+2app/src/main/java/com/example/notesapp/NotesApp.kt,f/c/fca1737f836c684f59ec001226079c63e8ebd8ce
+
+Oapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/GetNotes.kt,5/9/59b8aef4cb5390232482bcf91322e6974479d23e
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+„
+Tapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDataBase.kt,f/f/ff8ad05914c6aa4ce7fb60c92125f63a8a5ef08b
