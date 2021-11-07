@@ -8,6 +8,7 @@ import com.example.notesapp.ui.theme.BabyBlue
 import com.example.notesapp.ui.theme.RedOrange
 import com.example.notesapp.ui.theme.RedPink
 import com.example.notesapp.ui.theme.Violet
+import java.lang.Exception
 
 
 @Entity
@@ -22,3 +23,5 @@ data class Note(
         val noteColors = listOf(RedOrange,LightGray, Violet, BabyBlue, RedPink)
     }
 }
+
+class InvalidNoteException(message:String):Exception(message)
