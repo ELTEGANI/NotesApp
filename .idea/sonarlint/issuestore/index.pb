@@ -17,10 +17,6 @@ Papp/src/main/java/com/example/notesapp/feature_note/presentation/MainActivity.k
 Oapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDao.kt,7/3/73ccd3dd938dc14c03197221d9f58927d1a489fa
 ˆ
 Xapp/src/main/java/com/example/notesapp/feature_note/data/repository/NoteRepositoryImp.kt,1/c/1c207e90608557c98eca3b54458ee0eada3295f7
-|
-Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/NoteOrder.kt,8/5/85eb642c59a8bc10cf60b7f81ae9f3c7be070e07
-|
-Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/OrderType.kt,4/e/4e779135634d0188e6f5f509ab7c317d5416da3a
 ‡
 Wapp/src/main/java/com/example/notesapp/feature_note/domain/repository/NoteRepository.kt,c/3/c33522a5f4d7f9914d0112918f975f2d45b30441
 b
@@ -31,3 +27,11 @@ P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 „
 Tapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDataBase.kt,f/f/ff8ad05914c6aa4ce7fb60c92125f63a8a5ef08b
+„
+Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesState.kt,a/a/aa8bff76e11859170c4a52d2983d4f1a4fad9417
+‚
+Rapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/DeleteNotes.kt,0/a/0a347c2b22731d68c28b734fdee4846dbce801ac
+„
+Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesEvent.kt,9/d/9d1b1002fe90e56522647df3334da3b1b7bd68e3
+f
+6app/src/main/java/com/example/notesapp/di/AppModule.kt,4/e/4e42000e473f66e96cc60d6eeaadcf9bfda3041e
