@@ -35,3 +35,13 @@ Rapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/DeleteNotes
 Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesEvent.kt,9/d/9d1b1002fe90e56522647df3334da3b1b7bd68e3
 f
 6app/src/main/java/com/example/notesapp/di/AppModule.kt,4/e/4e42000e473f66e96cc60d6eeaadcf9bfda3041e
+
+Oapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/AddNotes.kt,1/5/15f87573f2562809f55b4301227653a12fbd9ab9
+ƒ
+Sapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/NoteUseCases.kt,b/6/b697311ca27d5c6645f75c4077cf3eb564cf6ed1
+x
+Happ/src/main/java/com/example/notesapp/feature_note/domain/model/Note.kt,4/2/42074a9a394d39e1bd035d39c39e9fc65da3ceca
+ˆ
+Xapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesViewModel.kt,8/d/8db0821229949e8f2a589d10bc7ea9a135da6c8e
+|
+Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/OrderType.kt,4/e/4e779135634d0188e6f5f509ab7c317d5416da3a
