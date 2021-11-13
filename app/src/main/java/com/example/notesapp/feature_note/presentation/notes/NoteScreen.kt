@@ -18,6 +18,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
 import com.example.notesapp.feature_note.presentation.notes.components.NoteItem
 import com.example.notesapp.feature_note.presentation.notes.components.OrderSection
+import kotlinx.coroutines.launch
 
 
 @ExperimentalAnimationApi
@@ -86,13 +87,25 @@ fun NoteScreen(
             items(state.notes){note->
                 NoteItem(
                     note = note,
-                    modifier = Modifier.fillMaxSize().clickable{
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .clickable {
 
-                    },
+                        },
                     onDeleteClick = {
                         viewModel.onEvent(NotesEvent.DeleteNote(note))
-                    }
-                    )
+                        scope.launch {
+                            val result = scaffoldState.snackbarHostState.showSnackbar(
+                                message = "Note Deleted",
+                                actionLabel = "Undo"
+                            )
+                            if(result == SnackbarResult.ActionPerformed){
+                                viewModel.onEvent(NotesEvent.RestoreNote)
+                            }
+                        }
+                     }
+                )
+                Spacer(modifier = Modifier.height(16.dp))
             }
         }
     }

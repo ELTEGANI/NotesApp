@@ -21,8 +21,6 @@ Xapp/src/main/java/com/example/notesapp/feature_note/data/repository/NoteReposit
 Wapp/src/main/java/com/example/notesapp/feature_note/domain/repository/NoteRepository.kt,c/3/c33522a5f4d7f9914d0112918f975f2d45b30441
 b
 2app/src/main/java/com/example/notesapp/NotesApp.kt,f/c/fca1737f836c684f59ec001226079c63e8ebd8ce
-
-Oapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/GetNotes.kt,5/9/59b8aef4cb5390232482bcf91322e6974479d23e
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 Ñ
@@ -31,8 +29,6 @@ Tapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDataBa
 Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesState.kt,a/a/aa8bff76e11859170c4a52d2983d4f1a4fad9417
 Ç
 Rapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/DeleteNotes.kt,0/a/0a347c2b22731d68c28b734fdee4846dbce801ac
-Ñ
-Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesEvent.kt,9/d/9d1b1002fe90e56522647df3334da3b1b7bd68e3
 f
 6app/src/main/java/com/example/notesapp/di/AppModule.kt,4/e/4e42000e473f66e96cc60d6eeaadcf9bfda3041e
 
@@ -45,3 +41,11 @@ Happ/src/main/java/com/example/notesapp/feature_note/domain/model/Note.kt,4/2/4
 Xapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesViewModel.kt,8/d/8db0821229949e8f2a589d10bc7ea9a135da6c8e
 |
 Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/OrderType.kt,4/e/4e779135634d0188e6f5f509ab7c317d5416da3a
+|
+Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/NoteOrder.kt,8/5/85eb642c59a8bc10cf60b7f81ae9f3c7be070e07
+ç
+]app/src/main/java/com/example/notesapp/feature_note/presentation/notes/components/NoteItem.kt,c/5/c577566c98eb6117440fee6c0f306f715d60d91e
+ë
+aapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/components/OrderSection.kt,7/0/70dc84dcb33fd7fb7f4419f7bb1ef84b246ea625
+ó
+gapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/components/DefaultRadioButton.kt,d/8/d883e197a3fa06a093ef00c6b5d9a5ef7510e3e0
