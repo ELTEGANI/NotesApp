@@ -29,14 +29,8 @@ Tapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDataBa
 Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesState.kt,a/a/aa8bff76e11859170c4a52d2983d4f1a4fad9417
 ‚
 Rapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/DeleteNotes.kt,0/a/0a347c2b22731d68c28b734fdee4846dbce801ac
-f
-6app/src/main/java/com/example/notesapp/di/AppModule.kt,4/e/4e42000e473f66e96cc60d6eeaadcf9bfda3041e
 
 Oapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/AddNotes.kt,1/5/15f87573f2562809f55b4301227653a12fbd9ab9
-ƒ
-Sapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/NoteUseCases.kt,b/6/b697311ca27d5c6645f75c4077cf3eb564cf6ed1
-x
-Happ/src/main/java/com/example/notesapp/feature_note/domain/model/Note.kt,4/2/42074a9a394d39e1bd035d39c39e9fc65da3ceca
 ˆ
 Xapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesViewModel.kt,8/d/8db0821229949e8f2a589d10bc7ea9a135da6c8e
 |
@@ -49,3 +43,9 @@ Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/NoteOrder.kt,8
 aapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/components/OrderSection.kt,7/0/70dc84dcb33fd7fb7f4419f7bb1ef84b246ea625
 —
 gapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/components/DefaultRadioButton.kt,d/8/d883e197a3fa06a093ef00c6b5d9a5ef7510e3e0
+„
+Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesEvent.kt,9/d/9d1b1002fe90e56522647df3334da3b1b7bd68e3
+
+Oapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/GetNotes.kt,5/9/59b8aef4cb5390232482bcf91322e6974479d23e
+„
+Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NoteScreen.kt,8/9/89443d9b758e1f297c019b03131d50d594a36c6b
