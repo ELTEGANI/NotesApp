@@ -49,3 +49,17 @@ Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesEve
 Oapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/GetNotes.kt,5/9/59b8aef4cb5390232482bcf91322e6974479d23e
 „
 Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NoteScreen.kt,8/9/89443d9b758e1f297c019b03131d50d594a36c6b
+•
+eapp/src/main/java/com/example/notesapp/feature_note/presentation/add_edit_notes/NoteTextFieldState.kt,c/1/c127b77fc102fc3fda632a76ddc99d4ccf7a10d5
+x
+Happ/src/main/java/com/example/notesapp/feature_note/domain/model/Note.kt,4/2/42074a9a394d39e1bd035d39c39e9fc65da3ceca
+f
+6app/src/main/java/com/example/notesapp/di/AppModule.kt,4/e/4e42000e473f66e96cc60d6eeaadcf9bfda3041e
+~
+Napp/src/main/java/com/example/notesapp/feature_note/domain/use_case/GetNote.kt,f/d/fd40c2a31866712fdda142021698d2dcebd6c796
+—
+gapp/src/main/java/com/example/notesapp/feature_note/presentation/add_edit_notes/AddEditNoteViewModel.kt,c/a/ca9e34c62628440135fb142a1fba5f028ec2359b
+“
+capp/src/main/java/com/example/notesapp/feature_note/presentation/add_edit_notes/AddEditNoteEvent.kt,2/0/20c6734000b50c76a290c4719d0034d18720615f
+ƒ
+Sapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/NoteUseCases.kt,b/6/b697311ca27d5c6645f75c4077cf3eb564cf6ed1
