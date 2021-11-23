@@ -1,20 +1,12 @@
 
-@
-app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
 h
 8app/src/main/java/com/example/notesapp/ui/theme/Shape.kt,4/4/4441730111cf49bcd402fa82db8e034f9671b584
 h
 8app/src/main/java/com/example/notesapp/ui/theme/Color.kt,8/9/894a81455c4de60975f3026a8743156115a134d3
 g
 7app/src/main/java/com/example/notesapp/ui/theme/Type.kt,f/c/fc90888977fdecd39953e843c6e3c6c7fd123ed2
-<
-build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 h
 8app/src/main/java/com/example/notesapp/ui/theme/Theme.kt,0/e/0e7e206f2ef4ca898cc1c6f9c43509c2fda87a46
-€
-Papp/src/main/java/com/example/notesapp/feature_note/presentation/MainActivity.kt,3/b/3b7c6a8d1a8fd5e96594f7d90e01a4c3359f1642
-
-Oapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDao.kt,7/3/73ccd3dd938dc14c03197221d9f58927d1a489fa
 ˆ
 Xapp/src/main/java/com/example/notesapp/feature_note/data/repository/NoteRepositoryImp.kt,1/c/1c207e90608557c98eca3b54458ee0eada3295f7
 ‡
@@ -23,8 +15,6 @@ b
 2app/src/main/java/com/example/notesapp/NotesApp.kt,f/c/fca1737f836c684f59ec001226079c63e8ebd8ce
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
-„
-Tapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDataBase.kt,f/f/ff8ad05914c6aa4ce7fb60c92125f63a8a5ef08b
 „
 Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesState.kt,a/a/aa8bff76e11859170c4a52d2983d4f1a4fad9417
 ‚
@@ -47,14 +37,10 @@ gapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/componen
 Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesEvent.kt,9/d/9d1b1002fe90e56522647df3334da3b1b7bd68e3
 
 Oapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/GetNotes.kt,5/9/59b8aef4cb5390232482bcf91322e6974479d23e
-„
-Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NoteScreen.kt,8/9/89443d9b758e1f297c019b03131d50d594a36c6b
 •
 eapp/src/main/java/com/example/notesapp/feature_note/presentation/add_edit_notes/NoteTextFieldState.kt,c/1/c127b77fc102fc3fda632a76ddc99d4ccf7a10d5
 x
 Happ/src/main/java/com/example/notesapp/feature_note/domain/model/Note.kt,4/2/42074a9a394d39e1bd035d39c39e9fc65da3ceca
-f
-6app/src/main/java/com/example/notesapp/di/AppModule.kt,4/e/4e42000e473f66e96cc60d6eeaadcf9bfda3041e
 ~
 Napp/src/main/java/com/example/notesapp/feature_note/domain/use_case/GetNote.kt,f/d/fd40c2a31866712fdda142021698d2dcebd6c796
 —
