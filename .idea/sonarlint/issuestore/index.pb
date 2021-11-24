@@ -15,8 +15,6 @@ b
 2app/src/main/java/com/example/notesapp/NotesApp.kt,f/c/fca1737f836c684f59ec001226079c63e8ebd8ce
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
-Ñ
-Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesState.kt,a/a/aa8bff76e11859170c4a52d2983d4f1a4fad9417
 Ç
 Rapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/DeleteNotes.kt,0/a/0a347c2b22731d68c28b734fdee4846dbce801ac
 
@@ -29,8 +27,6 @@ Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/OrderType.kt,4
 Lapp/src/main/java/com/example/notesapp/feature_note/domain/util/NoteOrder.kt,8/5/85eb642c59a8bc10cf60b7f81ae9f3c7be070e07
 ç
 ]app/src/main/java/com/example/notesapp/feature_note/presentation/notes/components/NoteItem.kt,c/5/c577566c98eb6117440fee6c0f306f715d60d91e
-ë
-aapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/components/OrderSection.kt,7/0/70dc84dcb33fd7fb7f4419f7bb1ef84b246ea625
 ó
 gapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/components/DefaultRadioButton.kt,d/8/d883e197a3fa06a093ef00c6b5d9a5ef7510e3e0
 Ñ
@@ -43,7 +39,13 @@ x
 Happ/src/main/java/com/example/notesapp/feature_note/domain/model/Note.kt,4/2/42074a9a394d39e1bd035d39c39e9fc65da3ceca
 ~
 Napp/src/main/java/com/example/notesapp/feature_note/domain/use_case/GetNote.kt,f/d/fd40c2a31866712fdda142021698d2dcebd6c796
-ó
-gapp/src/main/java/com/example/notesapp/feature_note/presentation/add_edit_notes/AddEditNoteViewModel.kt,c/a/ca9e34c62628440135fb142a1fba5f028ec2359b
 É
 Sapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/NoteUseCases.kt,b/6/b697311ca27d5c6645f75c4077cf3eb564cf6ed1
+f
+6app/src/main/java/com/example/notesapp/di/AppModule.kt,4/e/4e42000e473f66e96cc60d6eeaadcf9bfda3041e
+Ñ
+Tapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDataBase.kt,f/f/ff8ad05914c6aa4ce7fb60c92125f63a8a5ef08b
+<
+build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
