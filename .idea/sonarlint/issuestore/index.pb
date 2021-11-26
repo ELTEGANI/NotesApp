@@ -49,3 +49,9 @@ Tapp/src/main/java/com/example/notesapp/feature_note/data/data_source/NoteDataBa
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 @
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+
+Oapp/src/main/java/com/example/notesapp/feature_note/presentation/util/Screen.kt,5/9/59d2e248db7a62e8b2be3c9c58faa64c30785f4d
+„
+Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesState.kt,a/a/aa8bff76e11859170c4a52d2983d4f1a4fad9417
+€
+Papp/src/main/java/com/example/notesapp/feature_note/presentation/MainActivity.kt,3/b/3b7c6a8d1a8fd5e96594f7d90e01a4c3359f1642
