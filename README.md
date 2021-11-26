@@ -12,3 +12,6 @@
 - [navigation](https://developer.android.com/guide/navigation?gclid=CjwKCAjwp_GJBhBmEiwALWBQk-LCvnuj3tWA07HX5cXG6p3HHjNnmH2Ong6Lk-_3sTGxh3yiW9Z3rRoCzLgQAvD_BwE&gclsrc=aw.ds) Android Jetpack's Navigation component helps you implement navigation
 - [flow](https://developer.android.com/kotlin/flow) notify domain layer data to views.
 - [coroutines](https://developer.android.com/kotlin/coroutines?gclid=CjwKCAjwp_GJBhBmEiwALWBQk4flWebxYMw9cmq_-zbKtyjEHLkwa6n_LgA5QWEm9lFwXJJPlXdgVxoCaB0QAvD_BwE&gclsrc=aw.ds) A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
+
+
+
