@@ -1,4 +1,4 @@
-<h1 align="center">Notes App</h1>
+<h1 align="center">Notes App Using Jetpack Compose</h1>
 
 <img src="https://user-images.githubusercontent.com/5574608/143603373-b95ad8fe-b444-4a7e-91ff-4e535d1af77b.gif" align="right" width="32%"/>
 
