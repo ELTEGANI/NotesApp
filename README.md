@@ -1,7 +1,7 @@
 <h1 align="center">Notes App</h1>
 
+<img src="https://user-images.githubusercontent.com/5574608/143603373-b95ad8fe-b444-4a7e-91ff-4e535d1af77b.gif" align="right" width="32%"/>
 
-<img src="" align="right" width="32%"/>
 
 - [MVVM](https://developer.android.com/jetpack/guide?gclid=CjwKCAjwp_GJBhBmEiwALWBQk1owtAt-_GofEWOEfTFbUSnFwVrSBYjPI79ne6TNg6hgdIBrKlghMBoCD10QAvD_BwE&gclsrc=aw.ds)   MVVM Architecture (Model - View - ViewModel)
 - [Clean-architecture](https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started) MVVM with Clean Architecture is pretty good in such cases. It goes one step further in separating the responsibilities of your code base.
