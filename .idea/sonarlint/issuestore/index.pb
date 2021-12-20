@@ -19,8 +19,6 @@ gapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/componen
 Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesEvent.kt,9/d/9d1b1002fe90e56522647df3334da3b1b7bd68e3
 •
 eapp/src/main/java/com/example/notesapp/feature_note/presentation/add_edit_notes/NoteTextFieldState.kt,c/1/c127b77fc102fc3fda632a76ddc99d4ccf7a10d5
-~
-Napp/src/main/java/com/example/notesapp/feature_note/domain/use_case/GetNote.kt,f/d/fd40c2a31866712fdda142021698d2dcebd6c796
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 „
@@ -55,3 +53,11 @@ gapp/src/main/java/com/example/notesapp/feature_note/presentation/add_edit_notes
 dapp/src/main/java/com/example/notesapp/feature_note/presentation/add_edit_notes/AddEditNoteScreen.kt,e/1/e143825a3c2a2113b7aa40f2393d0114f79190e9
 „
 Tapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NoteScreen.kt,8/9/89443d9b758e1f297c019b03131d50d594a36c6b
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+
+Oapp/src/main/java/com/example/notesapp/feature_note/presentation/util/Screen.kt,5/9/59d2e248db7a62e8b2be3c9c58faa64c30785f4d
+ˆ
+Xapp/src/main/java/com/example/notesapp/feature_note/presentation/notes/NotesViewModel.kt,8/d/8db0821229949e8f2a589d10bc7ea9a135da6c8e
+
+Oapp/src/main/java/com/example/notesapp/feature_note/domain/use_case/AddNotes.kt,1/5/15f87573f2562809f55b4301227653a12fbd9ab9
